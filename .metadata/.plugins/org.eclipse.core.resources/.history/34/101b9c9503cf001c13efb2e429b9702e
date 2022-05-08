@@ -1,8 +1,0 @@
-
-public class VariableScope2 {
-	private int data;
-	
-	public VariableScope2() {
-		this.data = 50;
-	}
-}
