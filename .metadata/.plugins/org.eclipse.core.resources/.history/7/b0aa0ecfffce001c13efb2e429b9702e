@@ -1,0 +1,8 @@
+
+public class Variable_scope {
+	
+	// instance variable
+	
+	int data = 50;
+
+}
